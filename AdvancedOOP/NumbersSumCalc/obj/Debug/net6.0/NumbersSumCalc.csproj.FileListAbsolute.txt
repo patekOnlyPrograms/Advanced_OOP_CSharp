@@ -1,0 +1,15 @@
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\bin\Debug\net6.0\NumbersSumCalc.exe
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\bin\Debug\net6.0\NumbersSumCalc.deps.json
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\bin\Debug\net6.0\NumbersSumCalc.runtimeconfig.json
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\bin\Debug\net6.0\NumbersSumCalc.dll
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\bin\Debug\net6.0\NumbersSumCalc.pdb
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.csproj.AssemblyReference.cache
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.AssemblyInfoInputs.cache
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.AssemblyInfo.cs
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.csproj.CoreCompileInputs.cache
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.dll
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\refint\NumbersSumCalc.dll
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.pdb
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\NumbersSumCalc.genruntimeconfig.cache
+C:\Users\abhir\source\repos\Udemy\AdvancedOOP\AdvancedOOP\NumbersSumCalc\obj\Debug\net6.0\ref\NumbersSumCalc.dll
