@@ -1,10 +1,16 @@
-﻿namespace CookieCookbook
+﻿using System;
+using UserInteractions;
+
+namespace CookieCookbook
 {
     public class Program
     {
+
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            UserInteractions us = new UserInteractions();
+            us.StarterMessage();
         }
     }
 }
