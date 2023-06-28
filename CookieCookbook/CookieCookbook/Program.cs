@@ -1,5 +1,5 @@
-﻿using System;
-using UserInteractions;
+﻿
+using UserInteractionsNS;
 
 namespace CookieCookbook
 {
@@ -11,6 +11,7 @@ namespace CookieCookbook
         {
             UserInteractions us = new UserInteractions();
             us.StarterMessage();
+            us.UserInput();
         }
     }
 }
