@@ -1,4 +1,5 @@
 using System;
+using CookieCookbook.FileOperationsFolder;
 using CookieCookbook.Ingredients;
 
 namespace UserInteractionsNS
@@ -8,7 +9,8 @@ namespace UserInteractionsNS
         public void StarterMessage(){
             Console.WriteLine("Create a new cookie recipe! Available ingredients are:");
             Console.WriteLine("Printing available ingredients");
-            //Recipes.PrintAvailableFromList();
+            Recipes rs = new Recipes();
+            rs.printAllIngredients();
         }
 
         public void UserInput()
@@ -25,9 +27,8 @@ namespace UserInteractionsNS
                 {
                     if(number1 > 0)
                     {
-
+                        Console.WriteLine("Recipe added");
                     }
-                    Console.WriteLine("Recipe added");
                 }
                 else
                 {
