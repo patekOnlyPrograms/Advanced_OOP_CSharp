@@ -34,13 +34,19 @@ namespace CookieCookbook.FileOperationsFolder
         }
 
         //not quite sure why to use linq
-        public void addIngredientsToFile(IEnumerable<int> Ingredients)
-        {
-            try
-            {
-                IEnumerable<string> strings = Ingredients.Select(n => n.ToString());
-                File.WriteAll(fileName, Ingredients.);
-            }
-        }
+        // public void addIngredientsToFile(IEnumerable<int> Ingredients)
+        // {
+        //     try
+        //     {
+        //         IEnumerable<string> strings = Ingredients.Select(n => n.ToString());
+        //         File.WriteAllText(fileName, strings);
+        //     }
+        //     catch
+        //     {
+        //         
+        //     }
+        // }
+        
+        
     }
 }

@@ -9,7 +9,7 @@ namespace UserInteractionsNS
         public void StarterMessage(){
             Console.WriteLine("Create a new cookie recipe! Available ingredients are:");
             Console.WriteLine("Printing available ingredients");
-            Recipes rs = new Recipes();
+            IngredientsVault rs = new IngredientsVault();
             rs.printAllIngredients();
         }
 

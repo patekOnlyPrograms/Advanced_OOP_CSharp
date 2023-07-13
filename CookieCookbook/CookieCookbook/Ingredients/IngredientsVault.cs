@@ -2,7 +2,7 @@
 
 namespace CookieCookbook.Ingredients
 {
-    public class Recipes : InterfaceIngredients
+    public class IngredientsVault : InterfaceIngredients
     {
         public IEnumerable<IngredientsBuilder> Ingredients { get; } = new List<IngredientsBuilder>
         {
