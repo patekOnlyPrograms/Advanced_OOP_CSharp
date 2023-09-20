@@ -22,10 +22,8 @@ namespace CookieCookbook.FileOperationsFolder
                 }
                 using (FileStream fs = File.Create(fileName))
                 {
-                    byte[] title = new UTF8Encoding(true).GetBytes("Recipes");
-                    fs.Write(title, 0, title.Length);
+                    Console.WriteLine("File created successfully.");
                 }
-                Console.WriteLine("File created successfully.");
             }
             catch (Exception ex)
             {
@@ -33,20 +31,17 @@ namespace CookieCookbook.FileOperationsFolder
             }
         }
 
-        //not quite sure why to use linq
-        // public void addIngredientsToFile(IEnumerable<int> Ingredients)
-        // {
-        //     try
-        //     {
-        //         IEnumerable<string> strings = Ingredients.Select(n => n.ToString());
-        //         File.WriteAllText(fileName, strings);
-        //     }
-        //     catch
-        //     {
-        //         
-        //     }
-        // }
-        
-        
+
+        public void WriteToTxtFile(List<string> userInputRecipe)
+        {
+            string formattedList = "[" + string.Join(",", userInputRecipe) + "]" + Environment.NewLine;
+            //IEnumerable<string> ingredients = formattedList.Select(n => n.ToString());
+            File.AppendAllText(fileName, formattedList);
+        }
+
+        public void createJSONFile()
+        {
+            
+        }
     }
 }

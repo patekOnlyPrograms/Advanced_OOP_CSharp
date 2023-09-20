@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/susruth/Documents/Programming/CSharp/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/CookieCookbook.csproj",
+      "projectUniqueName": "/home/susruth/Documents/Programming/C#/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/CookieCookbook.csproj",
       "projectName": "CookieCookbook",
-      "projectPath": "/home/susruth/Documents/Programming/CSharp/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/CookieCookbook.csproj",
+      "projectPath": "/home/susruth/Documents/Programming/C#/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/CookieCookbook.csproj",
       "packagesPath": "/home/susruth/.nuget/packages/",
-      "outputPath": "/home/susruth/Documents/Programming/CSharp/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/obj/",
+      "outputPath": "/home/susruth/Documents/Programming/C#/Advanced_OOP_CSharp/CookieCookbook/CookieCookbook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/susruth/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.120/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
       }
     }
   }
